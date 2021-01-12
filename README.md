@@ -43,10 +43,15 @@ Linguagem de sua preferência :)
 3 - Compartilhe seu resultado com a comunidade :)<br>
 
 # Requisitos:
-- Sua aplicação deverá conter uma tela inicial, onde deverá perguntar ao usuário uma data<br>
-- Sua página deverá conter uma página com o contador (contendo dias, horas, minutos e segundos). A contagem deverá ser feita levando em consiração quantos dias faltam para chegar na data definida pelo usuário.
-- O botão "reiniciar" irá retornar o usuário para a tela inicial
-- Você poderá seguir o modelo da página, que está disponvel na página "design".
+- Sua aplicação deverá seguir o Protótipo<br>
+- Formato de data e horário conforme o Protótipo<br>
+- Usar input do tipo RANGE para manipular os valores<br>
+- Não é permitido usar Jquery (Brinks)<br>
+
+# Bônus:
+- Faça o design trocar de cor dependendo do Horário<br>
+- Exemplo: 06:00 - 18:00 (light theme) | 18:00 : 06:00 (Dark theme).
+<img src="https://raw.githubusercontent.com/CaioFFerreira/Desafio-gerador-RGB/main/design/Light%20theme.png"  height="350">
 
 ## Modelo:
 <a href="https://www.figma.com/file/WwYvSGCKT6hACPzVUthPYu/Gerador-de-RGB?node-id=1209%3A8">Design do desafio</a>
