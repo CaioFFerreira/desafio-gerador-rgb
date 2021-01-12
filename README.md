@@ -1,8 +1,6 @@
 <p align="center">
-  <a href="http://www.freepik.com">
-    <img src="https://i.ibb.co/RzmJtXK/mockuper-5.png" alt="Logo" width="350" height="250">
-  </a>
-
+  <img src="https://raw.githubusercontent.com/CaioFFerreira/Desafio-gerador-RGB/main/design/Dark-theme.png" alt="Logo" width="350" height="250">
+ 
   <h3 align="center">Gerador RGB</h3>
 
   <p align="center">
@@ -55,12 +53,9 @@ Linguagem de sua preferência :)
 - Você poderá seguir o modelo da página, que está disponvel na página "design".
 
 # Dicas
-## Cores:
-Verde: #21EB00
-Cinza: #191A18
 
 ## Modelo:
-O modelo está disponível na pasta `./design`<br>
+<a href="https://www.figma.com/file/WwYvSGCKT6hACPzVUthPYu/Gerador-de-RGB?node-id=1209%3A8">Design do desafio</a>
 
 ## Tipo de fonte:
 - IBM Plex Mono<br>
