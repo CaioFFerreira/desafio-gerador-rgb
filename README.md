@@ -3,15 +3,13 @@
     <img src="https://i.ibb.co/RzmJtXK/mockuper-5.png" alt="Logo" width="350" height="250">
   </a>
 
-  <h3 align="center">Contador</h3>
+  <h3 align="center">Gerador RGB</h3>
 
   <p align="center">
-    Aplicação para contar dias, horas, minutos e segundos
+     Uma aplicação para gerar cores RGB
        <br />
     <br />
-    <a href="https://github.com/Lorenalgm/contador">Desafio</a>
-    ·
-    <a href="https://www.linkedin.com/in/lorenagmontes/">Contato</a>
+    <a href="https://www.linkedin.com/in/caio-fabio-duarte-ferreira/">Contato</a>
   </p>
 </p>
 
@@ -65,11 +63,11 @@ Cinza: #191A18
 O modelo está disponível na pasta `./design`<br>
 
 ## Tipo de fonte:
-- Roboto.<br>
-Você pode utilizar do google fonts.
+- IBM Plex Mono<br>
+Fonte: <a href="https://fonts.google.com/specimen/IBM+Plex+Mono?query=IBM+Plex+Mono">Clique aqui</a>
 
 # Compartilhe!
 Inicie seu projeto utilizando esse template no seu github como um repositório público<br>
 Faça um print, gif ou vídeo e compartilhe o resultado no seu Linkedin<br>
 
-Criado por  <a href="https://github.com/Lorenalgm">Lorena</a> :)
+Criado por  <a href="https://github.com/CaioFFerreira">Caio Fábio Duarte Ferreira</a> :)
