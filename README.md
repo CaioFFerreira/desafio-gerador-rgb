@@ -17,10 +17,8 @@
 * [Desafio](#desafio)
 * [Techs](#techs)
 * [Como começar](#como-começar)
-* [Dicas](#dicas)
-  * [Cores](#cores)
-  * [Modelo](#modelo)  
-  * [Tipo de fonte](#tipo-de-fonte)
+* [Modelo](#modelo)  
+* [Tipo de fonte](#tipo-de-fonte)
 * [Compartilhe](#compartilhe)
 
 # Devchallenge
