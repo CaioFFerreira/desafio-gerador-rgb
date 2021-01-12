@@ -31,8 +31,7 @@ Seu desafio é criar um contador (com dias, horas, minutos e segundos), a partir
 
 
 
-<img src="https://i.ibb.co/HhNTTzB/mockuper-6.png" width="450" height="350">
-<img src="https://i.ibb.co/9cMFW5s/mockuper-7.png" width="450" height="350">
+<img src="https://raw.githubusercontent.com/CaioFFerreira/Desafio-gerador-RGB/main/design/Dark-theme.png" width="450" height="350">
 
 # Techs: 
 Javascript<br>
@@ -41,18 +40,15 @@ CSS<br>
 Linguagem de sua preferência :)
 
 # Como começar:
-1 - Use esse template ou clone esse repositório com o código inicial<br>
-2 - Leia as instruções no readme.md<br>
-3 - Comece a codar! Sinta-se livre para utilizar o fluxo de trabalho que ache mais confortável<br>
-4 - Compartilhe seu resultado com a comunidade :)<br>
+1 - Leia as instruções no readme.md<br>
+2 - Comece a codar! Sinta-se livre para utilizar o fluxo de trabalho que ache mais confortável<br>
+3 - Compartilhe seu resultado com a comunidade :)<br>
 
 # Requisitos:
 - Sua aplicação deverá conter uma tela inicial, onde deverá perguntar ao usuário uma data<br>
 - Sua página deverá conter uma página com o contador (contendo dias, horas, minutos e segundos). A contagem deverá ser feita levando em consiração quantos dias faltam para chegar na data definida pelo usuário.
 - O botão "reiniciar" irá retornar o usuário para a tela inicial
 - Você poderá seguir o modelo da página, que está disponvel na página "design".
-
-# Dicas
 
 ## Modelo:
 <a href="https://www.figma.com/file/WwYvSGCKT6hACPzVUthPYu/Gerador-de-RGB?node-id=1209%3A8">Design do desafio</a>
