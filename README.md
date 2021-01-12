@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CaioFFerreira/Desafio-gerador-RGB/main/design/Dark-theme.png" alt="Logo" width="350" height="250">
+  <img src="https://raw.githubusercontent.com/CaioFFerreira/Desafio-gerador-RGB/main/design/Dark-theme.png" alt="Logo"  height="250">
  
   <h3 align="center">Gerador RGB</h3>
 
@@ -25,11 +25,11 @@
 <a href="https://devchallenge.now.sh/"> DevChallenge</a> permite que você evolua suas skills como programador!
 
 # Desafio
-Seu desafio é criar um contador (com dias, horas, minutos e segundos), a partir de uma data definida pelo usuário! O modelo final está disponível na pasta "design"
+Seu desafio é criar um gerador RGB, colocando a data e Horário atual.
 
 
 
-<img src="https://raw.githubusercontent.com/CaioFFerreira/Desafio-gerador-RGB/main/design/Dark-theme.png" width="450" height="350">
+<img src="https://raw.githubusercontent.com/CaioFFerreira/Desafio-gerador-RGB/main/design/Dark-theme.png"  height="350">
 
 # Techs: 
 Javascript<br>
