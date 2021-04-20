@@ -21,8 +21,6 @@
 * [Tipo de fonte](#tipo-de-fonte)
 * [Compartilhe](#compartilhe)
 
-# Devchallenge
-<a href="https://devchallenge.now.sh/"> DevChallenge</a> permite que você evolua suas skills como programador!
 
 # Desafio
 Seu desafio é criar um gerador RGB, colocando a data e Horário atual.
